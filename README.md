@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=mike-ssj&label=Profile%20views&color=9004c3&style=flat" alt="mike-ssj" /> </p>
 <p align="center" width="300">
-  <img align="center" width="200" src="https://avatars.githubusercontent.com/u/63660050?v=4" />
+  <img align="center" src="title.gif" />
   <h1 align="center">Hola! Soy Miguel</h1>
 </p>
 <h3 align="center">🌐 Desarrollador Web Full Stack 🌐</h3>
